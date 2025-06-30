@@ -14,5 +14,7 @@
 📁 Centralized Log Management: Implemented the EFK stack to collect, store, and view logs in one place.
 
 
+![Screenshot (536)](https://github.com/user-attachments/assets/94d446f0-8ac8-4ced-8712-a3a86c8ff32a)
 
+![Screenshot (537)](https://github.com/user-attachments/assets/53b384aa-50e0-4953-a9df-b0ddd4d996d3)
 
